@@ -30,3 +30,18 @@ Kelas: TI.24.A5 <p>
 ![gambar1](p4.13.PNG) <p>
 ### dan inilah hasilnya
 ![gambar1](p4.14.PNG) <p>
+### Selanjutnya saya mengatur tampilan footer. Tambahkan CSS untuk footer dan menambahkan Elemen lainnya pada Main Content sebagai berikut.
+![gambar1](p4.15.PNG) <p>
+![gambar1](p4.16.PNG) <p>
+### berikut hasilnya
+![gambar1](p4.17.PNG) <p>
+### Selanjutnya saya membuat content artikel. Dan menambahkan HTML dan css berikut pada main content.
+![gambar1](p4.18.PNG) <p>
+![gambar1](p4.19.PNG) <p>
+### berikut hasilnya
+![gambar1](p4.20.PNG) <p>
+## Pertanyaan dan tugas
+### 1. Tambahkan Layout untuk menu About
+### => buat single layout yang berisi deskripsi, portfolio, dll
+### 2. Tambahkan layout untuk menu Contact
+### => yang berisi form isian: nama, email, message, dll

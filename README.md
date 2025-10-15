@@ -17,3 +17,7 @@ Kelas: TI.24.A5 <p>
 ![gambar1](p4.5.PNG) <p>
 ### hasilnya sebagai berikut
 ![gambar1](p4.6.PNG) <p>
+### lalu saya mengatur navigasi menggunakan code berikut
+![gambar1](p4.7.PNG) <p>
+### berikut hasilnya
+![gambar1](p4.8.PNG) <p>

@@ -45,3 +45,12 @@ Kelas: TI.24.A5 <p>
 ### => buat single layout yang berisi deskripsi, portfolio, dll
 ### 2. Tambahkan layout untuk menu Contact
 ### => yang berisi form isian: nama, email, message, dll
+
+## Jawaban
+### untuk About, saya membuat file lagi dengan nama about.html di dalam folder yang sama dengan Home.html seperti berikut.
+![gambar1](p4.21.PNG)
+### untuk Menu Contact, saya membuat file dengan nama kontak.html di dalam folder yang sama dengan Home.html seperti berikut
+![gambar1](p4.22.PNG)
+### dan berikut adalah hasil dari kedua file tersebut
+![gambar1](p4.23.PNG) <p>
+![gambar1](p4.24.PNG) <p>

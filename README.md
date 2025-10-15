@@ -22,6 +22,11 @@ Kelas: TI.24.A5 <p>
 ### berikut hasilnya
 ![gambar1](p4.8.PNG) <p>
 ### Kemudian saya memasukkan Hero panel di home.html sebagai berikut.
-![gambar10](p4.10PNG) <p>
+![gambar10](p4.10.PNG) <p>
 ### dan inilah hasilnya
 ![gambar1](p4.11.PNG) <p>
+### Kemudian saya menambahkan element widget dalam sidebar seperti berikut.
+![gambar1](p4.12.PNG) <p>
+![gambar1](p4.13.PNG) <p>
+### dan inilah hasilnya
+![gambar1](p4.14.PNG) <p>

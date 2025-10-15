@@ -15,3 +15,5 @@ Kelas: TI.24.A5 <p>
 ### Membuat layout sederhana
 #### Saya membuat folder baru dengan nama lab4_layout, kemudian saya membuat file baru didalamnya dengan nama home.html, dan file css dengan nama style.css seperti berikut.
 ![gambar1](p4.5.PNG) <p>
+### hasilnya sebagai berikut
+![gambar1](p4.6.PNG) <p>

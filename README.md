@@ -22,6 +22,6 @@ Kelas: TI.24.A5 <p>
 ### berikut hasilnya
 ![gambar1](p4.8.PNG) <p>
 ### Kemudian saya memasukkan Hero panel di home.html sebagai berikut.
-![gambar1](p4.10PNG) <p>
+![gambar10](p4.10PNG) <p>
 ### dan inilah hasilnya
 ![gambar1](p4.11.PNG) <p>

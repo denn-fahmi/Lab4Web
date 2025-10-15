@@ -11,3 +11,4 @@ dan hasilnya sebagai berikut. <p>
 Saya menambahkan element div lainnya seteleah div3, Kemudian saya atur property clear pada CSS, seperti berikut.
 ![gambar1](p4.3.PNG) <p>
 hasilnya seperti berikut
+![gambar1](p4.4.PNG) <p>

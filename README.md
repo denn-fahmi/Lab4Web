@@ -6,3 +6,4 @@ Kelas: TI.24.A5 <p>
 ### Langkah-Langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 ![gambar1](p4.1.PNG) <p>
+kemudian saya
